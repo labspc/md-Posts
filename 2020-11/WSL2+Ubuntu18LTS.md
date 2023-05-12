@@ -111,8 +111,3 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 
 
-
-#### P4
-
-![ab7c3bdb335306e61f41bc12f764c4f](https://blog-imghost.oss-cn-shanghai.aliyuncs.com/img/20201124174406.jpg)
-
